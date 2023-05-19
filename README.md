@@ -6,4 +6,5 @@
 
 ### Certificates
 HackEDU Certified Secure Developer
+<br />
 ICAgile Certified Agile Professional
