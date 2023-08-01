@@ -2,7 +2,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=H-Matzy&layout=compact)
 <br />
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=H-Matzy&show_icons=true&theme=slateorange)
 
 ### Certificates
 HackEDU Certified Secure Developer
